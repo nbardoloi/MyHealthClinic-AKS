@@ -1,6 +1,4 @@
-﻿
-
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 namespace MyHealth.Model
 {
